@@ -1,11 +1,8 @@
 // WEEK 11 HANGMAN
 // game.js
-// Randomly selects a word for the player
-// Arrays and variables for holding data
-
-// Game contains the wordOptions
+//
 var game = {
-          wordOptions: ["catwoman", "mystique", "batgirl", "rouge"];
+          wordOptions: ["steel", "aluminium", "cooper", "titanium"];
 };
 
 // export so can use in main.js
